@@ -16,7 +16,7 @@
 # minor to severe
 
 def mFunctionName(k):
-    """ Function descrition
+    """ Function description
         in
         out
 
